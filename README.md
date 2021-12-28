@@ -71,3 +71,4 @@ In order to refresh the dashboard in a predefined interval, using crontab is rec
  - [ ] Graph Covid-19 data for a given timeframe
  - [ ] Graph Internet speed data for a given timeframe
  - [ ] Support use of the display buttons to select which information will be displayed on screen
+
